@@ -269,36 +269,19 @@ dashboard/fnp sales analysis.xlsx
 
 
 
+## Final Recommendations
 
-<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+- Focus marketing campaigns on festive months (September, March).  
+- Promote Anniversary & Raksha Bandhan gifting bundles.  
+- Invest in high-performing products (Magnum Set, Quia Gift).  
+- Improve delivery speed during peak seasons.  
+- Expand operations in Imphal, Kerala, and Haridwar (top order cities).  
 
+---
 
+## Author & Contact  
 
-Focus marketing campaigns on festive months (September, March).
-
-
-
-Promote Anniversary \& Raksha Bandhan gifting bundles.
-
-
-
-Invest in high-performing products (Magnum Set, Quia Gift).
-
-
-
-Improve delivery speed during peak seasons.
-
-
-
-Expand operations in Imphal, Kerala, and Haridwar (top order cities).
-
-
-
-<h2><a class="anchor" id="author--contact"></a>Author \& Contact</h2>
-
-
-
-\*\*Tufail Shaikh\*\*  
+**Tufail Shaikh**
 
 Data Analyst  
 
