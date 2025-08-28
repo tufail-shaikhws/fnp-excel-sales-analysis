@@ -218,25 +218,16 @@ fnp-sales-analysis/
 
 
 
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+## 📊 Dashboard
 
+- Interactive Excel Dashboard showing:  
+  - Revenue by Occasion & Month  
+  - Top Products & Categories  
+  - Customer Spending Patterns  
+  - Delivery Time Analysis  
+  - City-Wise Sales Distribution  
 
-
-\- Interactive Excel Dashboard showing:  
-
-&nbsp; - Revenue by Occasion \& Month  
-
-&nbsp; - Top Products \& Categories  
-
-&nbsp; - Customer Spending Patterns  
-
-&nbsp; - Delivery Time Analysis  
-
-&nbsp; - City-Wise Sales Distribution  
-
-
-
-!\[FNP Dashboard](images/Fnp%20sales%20Dashboard.jpg)  
+![FNP Dashboard](https://github.com/tufail-shaikhws/fnp-excel-sales-analysis/blob/main/Fnp%20sales%20Dashboard.jpg?raw=true)
 
 
 
