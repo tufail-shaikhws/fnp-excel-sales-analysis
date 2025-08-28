@@ -30,9 +30,9 @@
 
 \- <a href="#how-to-run-this-project">How to Run This Project</a>
 
-\- <a href="#Final Recommendations">Final Recommendations</a>
+\- <a href="#final-recommendations">Final Recommendations</a>
 
-- <a href="#author--contact">Author & Contact</a>
+\- <a href="#author--contact">Author & Contact</a>
 
 
 
@@ -276,6 +276,7 @@ dashboard/fnp sales analysis.xlsx
 - Invest in high-performing products (Magnum Set, Quia Gift).  
 - Improve delivery speed during peak seasons.  
 - Expand operations in Imphal, Kerala, and Haridwar (top order cities).  
+
 
 ---
 
