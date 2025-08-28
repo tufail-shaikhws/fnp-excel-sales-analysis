@@ -30,9 +30,9 @@
 
 \- <a href="#how-to-run-this-project">How to Run This Project</a>
 
-\- <a href="#final-recommendations">Final Recommendations</a>
+\- <a href="#Final Recommendations">Final Recommendations</a>
 
-\- <a href="#author--contact">Author \& Contact</a>  
+- <a href="#author--contact">Author & Contact</a>
 
 
 
@@ -266,7 +266,7 @@ dashboard/fnp sales analysis.xlsx
 
 3.Use slicers (Occasion, Date, Delivery) to interact with charts.
 
-
+```
 
 
 ## Final Recommendations
@@ -281,11 +281,11 @@ dashboard/fnp sales analysis.xlsx
 
 ## Author & Contact  
 
-**Tufail Shaikh**
-
-Data Analyst  
+**Tufail Shaikh**  
+*Data Analyst*  
 
 📧 Email: shaikhtufailfx@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tufail-shaikh-a07214276)
 
 🔗 \[LinkedIn](https://www.linkedin.com/in/tufail-shaikh-a07214276)  
 
